@@ -2,8 +2,6 @@
 
 class FileSystem
 {
-	private $dirname;
-
 	public static function createDir($dirname)
 	{
 		try {
