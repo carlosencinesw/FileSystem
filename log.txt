@@ -1,0 +1,39 @@
+04/12/2017 05:27:35- Diretório valores criado
+04/12/2017 05:27:35- Arquivo valores\valores.txt criado
+04/12/2017 05:27:35- Arquivo teste01.txt criado
+04/12/2017 05:27:35- Arquivo teste01.txt excluido
+05/12/2017 10:57:32- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:57:33- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:57:34- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:57:35- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:57:37- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:57:38- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:57:39- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:25- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:25- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:25- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:25- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:25- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:25- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:25- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:43- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:43- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:43- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:43- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:43- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:43- Arquivo usuarios.csv importado com sucesso
+05/12/2017 10:59:43- Arquivo usuarios.csv importado com sucesso
+05/12/2017 11:00:58- Arquivo usuarios.csv importado com sucesso
+05/12/2017 11:01:27- Arquivo usuarios.csv importado com sucesso
+05/12/2017 11:31:12- Arquivo usuarios.csv importado com sucesso
+05/12/2017 05:02:15- Arquivo notas.txt criado
+05/12/2017 05:02:17- Dados inseridos no arquivo notas.txt
+05/12/2017 05:04:04- Arquivo notas.txt criado
+05/12/2017 05:08:01- Arquivo notas2.txt criado
+05/12/2017 05:08:02- Dados inseridos no arquivo notas2.txt
+05/12/2017 05:21:46- Arquivo notas2.txt editado com sucesso
+05/12/2017 05:24:47- Arquivo logs\app.log criado
+05/12/2017 05:24:48- Arquivo logs\app.log editado com sucesso
+05/12/2017 05:27:11- Diretório logs criado
+05/12/2017 05:27:11- Arquivo logs\app.log criado
+05/12/2017 05:27:11- Arquivo logs\app.log editado com sucesso
